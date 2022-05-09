@@ -1,0 +1,12 @@
+
+{   "ID": "ID бага"
+    "Summary": " Что? Где? Когда? "
+    "Description": "Детальное описание бага"    
+    "Steps to reproduce": "Шаги воспроизведения бага"
+    "Actual and Expected Result": "Актуальный и фактический результаты"
+    "Severity": "Severity trivial/text/tweak/minor/major/crash/blocker"
+    "Priority": "low/midle/high"
+    "Attachments": "фото/видео/логи"
+    "Environment": "платформа на которой воспроизводится баг"
+    "Build": "версия сборки"
+}
